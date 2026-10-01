@@ -1,0 +1,13 @@
+
+# 我使用版本：
+node =< v16.16.0
+
+# mac 可以使用n进行node版本控制
+# window 可以使用nvm控制
+
+# 注意事项：
+Node 的版本不能太高。存在“数字信封例程：：不支持”
+
+
+# 工程化Tool
+https://vuepress.vuejs.org/zh/plugin/official/plugin-search.html#%E5%AE%89%E8%A3%85
